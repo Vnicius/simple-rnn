@@ -14,7 +14,7 @@ The code get the dataset mnist of TensorFlow to train a Neural Network with dime
 ## Run
 
 ```console
-    $ python3 nn.py [1] [2] [3]
+    $ python3 rnn.py [1] [2] [3]
 ```
 
 1. Number of recurrences
@@ -25,7 +25,7 @@ The code get the dataset mnist of TensorFlow to train a Neural Network with dime
 
 **Running:**
 ```console
-    $ python3 nn.py 128 3 128
+    $ python3 rnn.py 128 3 128
 ```
 
 **Expected output**
